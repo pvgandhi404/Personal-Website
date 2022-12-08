@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #0e041b ;
+  background-position: no repeat;
+  color: #9f9999;
+}
+
+#head {
+  color: blue;
+  background-image: linear-gradient(to right, darkslateblue, grey);
+  padding: 15px;  
+}
+
+#Name {
+  background-position: no repeat;
+  font-family: "Garamond", serif;
+  font-weight: lighter;
+  color: white;
+  font-size: 50px;
+  text-align: left
+  }
+  
+  #Welcome {
+  color: #c2c2c2;
+  font-family: "Lato", sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 0px;
+  text-align: left;
+  }
+
+#intro{
+  color: white;
+  font-family: "Lato", sans-serif;
+}
+
+#email{
+  border: black;
+  color: #336f8e;
+  padding: 20px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+
+}
